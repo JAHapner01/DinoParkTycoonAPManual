@@ -1,0 +1,6 @@
+﻿game: Manual_DinoParkTycoon_Jake13Snake
+name: Player{NUMBER}
+
+Manual_DinoParkTycoon_Jake13Snake:
+  progression_balancing: 50
+  accessibility: items
